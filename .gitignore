@@ -1,0 +1,7 @@
+*.bin
+*.lst
+*.map
+*.rom
+*.o
+*.lis
+*~

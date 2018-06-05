@@ -1,0 +1,1 @@
+INCLUDE "vm/init.asm"
